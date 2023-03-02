@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 
 
 <!--
 **amolika20424/amolika20424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![AMOLIKA BANSAL](https://user-images.githubusercontent.com/88887824/222414964-302aeaff-2fc3-42c4-a4d4-a853f5e427f6.png)
+
+### Hello! I'm Amolika, a Computer Science Junior at IIIT Delhi. 
