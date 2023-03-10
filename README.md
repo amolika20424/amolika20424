@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![AMOLIKA BANSAL](https://user-images.githubusercontent.com/88887824/222414964-302aeaff-2fc3-42c4-a4d4-a853f5e427f6.png)
 
-### Hello! I'm Amolika, a Computer Science Junior at IIIT Delhi. 
+![Untitled (4)](https://user-images.githubusercontent.com/88887824/224248670-b9207401-0e1f-4c37-a675-a004aee4aefb.png)
 
 <h1 align="center">Hello! I am Amolika Bansal.</h1>
 <h3 align="center">A Computer Science and Social Science Junior at IIIT Delhi.</h3>
