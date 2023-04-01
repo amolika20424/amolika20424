@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Untitled (4)](https://user-images.githubusercontent.com/88887824/224248670-b9207401-0e1f-4c37-a675-a004aee4aefb.png)
 
 <h1 align="center">Hello! I am Amolika Bansal.</h1>
-<h3 align="center">I'm a Computer Science and Social Science Junior at IIIT Delhi.</h3>
+<h3 align="center">I'm a Computer Science and Social Sciences Junior at IIIT Delhi.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
