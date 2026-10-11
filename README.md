@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hello! I am Amolika Bansal.</h1>
-<h3 align="center">I'm a Computer Science and Social Sciences Junior at IIIT Delhi.</h3>
+<h3 align="center">I'm a Computer Science and Social Sciences grad from IIIT Delhi. I currently work at Amazon as an SDE :')</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
